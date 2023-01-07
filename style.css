@@ -117,10 +117,9 @@ li{
     margin: 120px auto;
     background-size: cover;
     background-blend-mode:multiply;
-}
-.positive-container{
     padding: 58px 50px;
 }
+
 .positive-heading{
     width:458px;
     font-size: 40px;
