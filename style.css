@@ -49,7 +49,9 @@ header{
 }
 /* header area end  */
 
-#about-section{
+/* failure section start  */
+
+#failure-section{
     height: 790px;
     width:1080px ;
     margin: 0 auto;
@@ -59,14 +61,11 @@ header{
     padding-top: 130px;
 
 }
-.left-about{
-    width: 565px;
-    height:723px ;
-}
-.left-about > img{
+
+.left-failure > img{
     width: 95%;
 }
-.right-about{
+.right-failure{
     width: 416px;
     height: 400px;
 }
@@ -83,6 +82,9 @@ li{
     line-height: 30px;
     
 }
+/* failure section end  */
+
+/* my plane section start  */
 #my-plane-section{
     height: 720px;
 }
@@ -125,6 +127,9 @@ li{
     color: #ffffff;
     margin-bottom: 30px;
 }
+/* my plane section end  */
+
+/* idol section start  */
 #idol-section{
     height: 700px;
 }
@@ -162,6 +167,9 @@ li{
     text-align:center;
     line-height: 22px; 
 }
+/* idol section end  */
+
+/* footer area start  */
 #footer{
     height: 577px;
     background-color: #151414;
@@ -215,4 +223,4 @@ input[type='email']{
     cursor: pointer;
 
 }
-
+/* footer area end  */
